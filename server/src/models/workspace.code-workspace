@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../../../../filecoin crawler/filfox_api"
+		},
+		{
+			"path": "../../.."
+		}
+	],
+	"settings": {}
+}

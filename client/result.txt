@@ -1,0 +1,41 @@
+{ "_id" : { "miner" : "f01372912", "type" : "reward" }, "totalValue" : 109426.88328411082 }
+{ "_id" : { "miner" : "f01466173", "type" : "burn" }, "totalValue" : -538.072805832269 }
+{ "_id" : { "miner" : "f01694304", "type" : "receive" }, "totalValue" : 90711.527033389 }
+{ "_id" : { "miner" : "f01716466", "type" : "receive" }, "totalValue" : 254283.31079516743 }
+{ "_id" : { "miner" : "f01606675", "type" : "receive" }, "totalValue" : 72454.89 }
+{ "_id" : { "miner" : "f01606849", "type" : "receive" }, "totalValue" : 61465 }
+{ "_id" : { "miner" : "f0130884", "type" : "send" }, "totalValue" : -317800 }
+{ "_id" : { "miner" : "f01606849", "type" : "reward" }, "totalValue" : 9821.202463868069 }
+{ "_id" : { "miner" : "f01662887", "type" : "burn" }, "totalValue" : -46.64350500201759 }
+{ "_id" : { "miner" : "f092228", "type" : "receive" }, "totalValue" : 110551.37 }
+{ "_id" : { "miner" : "f01606675", "type" : "send" }, "totalValue" : -1000 }
+{ "_id" : { "miner" : "f01641612", "type" : "burn" }, "totalValue" : -10.777733727916392 }
+{ "_id" : { "miner" : "f01694304", "type" : "burn" }, "totalValue" : -48.517616221069666 }
+{ "_id" : { "miner" : "f01372912", "type" : "send" }, "totalValue" : -62000 }
+{ "_id" : { "miner" : "f01602479", "type" : "burn" }, "totalValue" : -21.00517002926329 }
+{ "_id" : { "miner" : "f01731371", "type" : "reward" }, "totalValue" : 26427.581287809055 }
+{ "_id" : { "miner" : "f092228", "type" : "burn" }, "totalValue" : -415.28172163871386 }
+{ "_id" : { "miner" : "f0672951", "type" : "burn" }, "totalValue" : -2.532458689053776 }
+{ "_id" : { "miner" : "f0130884", "type" : "reward" }, "totalValue" : 367036.0846588846 }
+{ "_id" : { "miner" : "f01466173", "type" : "reward" }, "totalValue" : 112159.27375603926 }
+
+
+{ "_id" : { "miner" : "f01238519" }, "totalValue" : 288042.21651231794 }
+{ "_id" : { "miner" : "f0155050" }, "totalValue" : 25424.09745818048 }
+{ "_id" : { "miner" : "f01264125" }, "totalValue" : 155160.02616528812 }
+{ "_id" : { "miner" : "f01716466" }, "totalValue" : 267395.71683984715 }
+{ "_id" : { "miner" : "f0130884" }, "totalValue" : 279051.5359451568 }
+{ "_id" : { "miner" : "f01606849" }, "totalValue" : 70277.05857453845 }
+{ "_id" : { "miner" : "f0112667" }, "totalValue" : 75228.03284533335 }
+{ "_id" : { "miner" : "f01372912" }, "totalValue" : 209106.12262411462 }
+{ "_id" : { "miner" : "f01694304" }, "totalValue" : 93016.77769366362 }
+{ "_id" : { "miner" : "f01466173" }, "totalValue" : 283861.200950207 }
+{ "_id" : { "miner" : "f01641612" }, "totalValue" : 69234.1127127371 }
+{ "_id" : { "miner" : "f01606675" }, "totalValue" : 80828.87787481099 }
+{ "_id" : { "miner" : "f01602479" }, "totalValue" : 69415.61556616018 }
+{ "_id" : { "miner" : "f01731371" }, "totalValue" : 233193.12727388108 }
+{ "_id" : { "miner" : "f01776738" }, "totalValue" : 122735.79410257774 }
+{ "_id" : { "miner" : "f0672951" }, "totalValue" : 39327.53026218719 }
+{ "_id" : { "miner" : "f092228" }, "totalValue" : 105358.44545424018 }
+{ "_id" : { "miner" : "f01479781" }, "totalValue" : 253938.925784836 }
+{ "_id" : { "miner" : "f01662887" }, "totalValue" : 256071.83087418397 }
